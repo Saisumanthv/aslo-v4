@@ -207,3 +207,4 @@ Copyright (C) 2020 Sugar Labs
 
 ## Credits
 * Includes [jQuery](https://jquery.org/) library (JS Foundation and other contributors)
+.
